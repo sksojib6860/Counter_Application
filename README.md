@@ -1,4 +1,4 @@
-# untitled1
+# Point Counter App
 
 A new Flutter project.
 
