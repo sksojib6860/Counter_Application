@@ -1,6 +1,4 @@
-# Point Counter App
-
-A new Flutter project.
+# A Simple Point Counter App 
 
 ## Getting Started
 
